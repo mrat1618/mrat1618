@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a computational chemist by training and a Python enthusiast from Sydney. I'm interested in force field development, computer-aided drug development and scientific software development. 
+
 <!--
 **mrat1618/mrat1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
